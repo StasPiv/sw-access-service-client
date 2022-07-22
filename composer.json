@@ -1,0 +1,18 @@
+{
+  "type": "project",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "name": "staspiv/sw-access-service-client",
+  "description": "",
+  "require": {
+    "php": ">=8.0",
+    "staspiv/sw-core": "dev-master",
+    "ext-mysqli": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "SmartWallet\\AccessClient\\": "src/"
+    }
+  }
+}
