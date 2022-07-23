@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b44cac5e13270bbf0eff2ef611a761a3",
+    "content-hash": "c523710dbda231f447e14fdef1be9f05",
     "packages": [
         {
             "name": "staspiv/sw-core",
@@ -51,7 +51,8 @@
     "prefer-lowest": false,
     "platform": {
         "php": ">=8.0",
-        "ext-mysqli": "*"
+        "ext-mysqli": "*",
+        "ext-curl": "*"
     },
     "platform-dev": [],
     "plugin-api-version": "2.3.0"
