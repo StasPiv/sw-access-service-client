@@ -4,54 +4,16 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c523710dbda231f447e14fdef1be9f05",
-    "packages": [
-        {
-            "name": "staspiv/sw-core",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/StasPiv/sw-core.git",
-                "reference": "803c9b15fef5ff7cef44f03572f1aea903d0d21e"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/StasPiv/sw-core/zipball/803c9b15fef5ff7cef44f03572f1aea903d0d21e",
-                "reference": "803c9b15fef5ff7cef44f03572f1aea903d0d21e",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=8.0"
-            },
-            "default-branch": true,
-            "type": "project",
-            "autoload": {
-                "psr-4": {
-                    "SmartWallet\\Core\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "proprietary"
-            ],
-            "support": {
-                "issues": "https://github.com/StasPiv/sw-core/issues",
-                "source": "https://github.com/StasPiv/sw-core/tree/master"
-            },
-            "time": "2022-07-21T13:34:03+00:00"
-        }
-    ],
+    "content-hash": "848a48be92e6ac90d60e1a7f9d03f234",
+    "packages": [],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {
-        "staspiv/sw-core": 20
-    },
+    "stability-flags": [],
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
         "php": ">=8.0",
-        "ext-mysqli": "*",
         "ext-curl": "*"
     },
     "platform-dev": [],

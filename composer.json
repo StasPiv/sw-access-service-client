@@ -7,8 +7,6 @@
   "description": "",
   "require": {
     "php": ">=8.0",
-    "staspiv/sw-core": "dev-master",
-    "ext-mysqli": "*",
     "ext-curl": "*"
   },
   "autoload": {
